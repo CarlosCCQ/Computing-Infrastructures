@@ -1,6 +1,6 @@
 ## Cloud computing: What is it and what are its implications?
 
-![](./imagesFromTheFirstClass/secondReadingImage.png)
+![](./imagesFromTheFirstClass/imageOfTheSecondReading.png)
 
 Cloud computing is the provison of technology services such as servers analysis, network administration, database, information storage, and software through internet systems. Cloud providers charge according to the package.
 To establish an excellent relationship with a partner or provider, you will need advice to help you make the right decision. We will discuss this later, but first, learn about the scope of cloud computing. Its schemes, and classification by services.
